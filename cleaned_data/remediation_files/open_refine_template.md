@@ -14,6 +14,8 @@
 ```
 <identifier type="local">{{cells["adminDB Object"].value}}</identifier>
 <titleInfo><title>{{cells["title"].value}}</title></titleInfo>
+{{if(cells['name'].value != 'IGNORE', '<name' + if(cells['name_authority'].value != 'IGNORE', ' authority="' + cells['name_authority'].value + '"', '') + '><namePart>' + cells["name"].value + '</namePart>' + if(cells['name_role'].value != 'IGNORE', '<role><roleTerm authority="marcrelators">' + cells['name_role'].value + '</roleTerm>', '') + '</name>', '')}} 
+
 
 ```
 
