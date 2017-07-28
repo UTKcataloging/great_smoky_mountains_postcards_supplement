@@ -22,6 +22,7 @@ This respository includes all metadata associated with the [Great Smoky Mountain
         |-- oxygen_project_file.xpr
         |-- all_records_as_a_MODS_collection.mods.xml
         |-- xml_export_of_open_refine_project.xml
+	|-- open_refine_template.md
 |-- original_data
     |-- Great_Smoky_Mountains_Postcards_Supplement.csv
 
