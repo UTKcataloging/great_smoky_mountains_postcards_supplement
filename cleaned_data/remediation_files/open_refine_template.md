@@ -12,6 +12,8 @@
 ## Row Template
 
 ```
+<identifier type="local">{{cells["adminDB Object"].value}}</identifier>
+<titleInfo><title>{{cells["title"].value}}</title></titleInfo>
 
 ```
 
