@@ -47,11 +47,10 @@
       </role>
    </name>
    <subject>
-      <geographic authority="lcsh">Cherokee (N.C.)</geographic>
+      <geographic>Cherokee (N.C.)</geographic>
    </subject>
    <subject>
-      <geographic authority="lcsh"
-                  valueURI="http://id.loc.gov/authorities/names/nr97033191">Oconaluftee Indian Village (Cherokee, N.C.)</geographic>
+      <geographic valueURI="http://id.loc.gov/authorities/names/nr97033191">Oconaluftee Indian Village (Cherokee, N.C.)</geographic>
    </subject>
    <subject>
       <topic authority="lcsh"
