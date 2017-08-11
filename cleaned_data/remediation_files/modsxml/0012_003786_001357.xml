@@ -39,11 +39,10 @@
       </role>
    </name>
    <subject>
-      <geographic authority="lcsh">Cherokee (N.C.)</geographic>
+      <geographic>Cherokee (N.C.)</geographic>
    </subject>
    <subject>
-      <geographic authority="lcsh"
-                  valueURI="http://id.loc.gov/authorities/subjects/sh85023079">Cherokee Indian Reservation (N.C.)</geographic>
+      <geographic valueURI="http://id.loc.gov/authorities/subjects/sh85023079">Cherokee Indian Reservation (N.C.)</geographic>
    </subject>
    <subject>
       <topic authority="lcsh"
