@@ -39,8 +39,7 @@
       </role>
    </name>
    <subject>
-      <geographic authority="lcsh"
-                  valueURI="http://id.loc.gov/authorities/subjects/sh85006071">Appalachian Mountains</geographic>
+      <geographic valueURI="http://id.loc.gov/authorities/subjects/sh85006071">Appalachian Mountains</geographic>
    </subject>
    <subject>
       <topic authority="lcsh"
