@@ -18,7 +18,7 @@
 <location><physicalLocation>{{cells['repository'].value}}</physicalLocation></location>
 {{if(cells['abstract 2'].value != 'IGNORE', '<abstract>' + cells['abstract 2'].value + '</abstract>', '')}}
 <relatedItem type="host" displayLabel="Project"><titleInfo><title>{{cells['project_title'].value}}</title></titleInfo></relatedItem>
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Ridley Wills Postcard Collection</title></titleInfo><identifier>MPA.3781</identifier></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Ridley Wills Postcard Collection</title></titleInfo><identifier>MS.3781</identifier></relatedItem>
 {{if(cells['abstract'].value != 'IGNORE', '<note>' + cells['abstract'].value + '</note>', '')}}
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form><internetMediaType>image/jp2</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language>
