@@ -16,10 +16,10 @@
 <identifier type="local">{{cells["adminDB front"].value}}</identifier>
 <titleInfo><title>{{cells["title"].value}}</title></titleInfo>
 <location><physicalLocation>{{cells['repository'].value}}</physicalLocation></location>
+{{if(cells['abstract'].value != 'IGNORE', '<abstract>' + cells['abstract'].value + '</abstract>', '')}}
 {{if(cells['abstract 2'].value != 'IGNORE', '<abstract>' + cells['abstract 2'].value + '</abstract>', '')}}
 <relatedItem type="host" displayLabel="Project"><titleInfo><title>{{cells['project_title'].value}}</title></titleInfo></relatedItem>
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Ridley Wills Postcard Collection</title></titleInfo><identifier>MPA.3781</identifier></relatedItem>
-{{if(cells['abstract'].value != 'IGNORE', '<note>' + cells['abstract'].value + '</note>', '')}}
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Ridley Wills Postcard Collection</title></titleInfo><identifier>MS.3781</identifier></relatedItem>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form><internetMediaType>image/jp2</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language>
 {{if(cells['name'].value != 'IGNORE', '<name' + if(cells['URI_name'].value != 'IGNORE', ' valueURI="' + cells['URI_name'].value + '"', '') + if(cells['name_authority'].value != 'IGNORE', ' authority="' + cells['name_authority'].value + '"', '') + '><namePart>' + cells['name'].value + '</namePart>' + if(cells['name_role'].value != 'IGNORE', '<role><roleTerm authority="marcrelator">' + cells['name_role'].value + '</roleTerm>' + '</role>', '') + '</name>', '')}} 
