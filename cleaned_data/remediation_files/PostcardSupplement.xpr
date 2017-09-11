@@ -10,7 +10,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>mods_collection_front.xml</String>
+                                    <String>mods_collection_back.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -26,6 +26,21 @@
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>mods_collection.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>postcard_phase_ii</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>mods_collection_front.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
