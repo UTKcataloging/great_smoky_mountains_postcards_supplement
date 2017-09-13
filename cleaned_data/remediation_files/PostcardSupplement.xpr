@@ -10,7 +10,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>mods_collection_front.xml</String>
+                                    <String>mods_collection_back.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -25,7 +25,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>mods_collection_back.xml</String>
+                                    <String>mods_collection_front.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
