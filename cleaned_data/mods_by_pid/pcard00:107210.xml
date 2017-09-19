@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_003786_000930_0001</identifier>
+   <titleInfo>
+      <title>Laurel Falls Trail, Great Smoky Mountains National Park (510)</title>
+   </titleInfo>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <abstract>Pleasing panoramas, sheer cliffs and beautiful waterfalls are found on this trail within a mile-and-a-third from the paved Scenic Loop Highway of Fighting Creek Gap. The trail which is typical of the 500 miles of park trails continues a total distance of four miles to the fire tower atop Cove Mountain.</abstract>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Postcards from the Great Smoky Mountains</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Ridley Wills Postcard Collection</title>
+      </titleInfo>
+      <identifier>MPA.3781</identifier>
+   </relatedItem>
+   <note>Handwritten note sent to Miss Betty Brinkley in Nashville, Tennessee on June 9, 1938 for a postage of 1 cent.</note>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <name>
+      <namePart>Standard News Agency</namePart>
+      <role>
+         <roleTerm authority="marcrelator">Creator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <geographic valueURI="http://id.loc.gov/authorities/subjects/sh85057008">Great Smoky Mountains (N.C. and Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic valueURI="http://id.loc.gov/authorities/names/n2013057273">Elkmont (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <topic authority="lcsh"
+             valueURI="http://id.loc.gov/authorities/subjects/sh85136255">Tourism</topic>
+   </subject>
+   <subject>
+      <geographic authority="dots">Elkmont</geographic>
+   </subject>
+   <subject>
+      <geographic authority="dots">Laurel Falls</geographic>
+   </subject>
+   <subject>
+      <geographic authority="dots">Laurel Falls Trail</geographic>
+   </subject>
+   <originInfo>
+      <dateCreated>1938</dateCreated>
+      <publisher>Standard News Agency</publisher>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+      </place>
+   </originInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>
