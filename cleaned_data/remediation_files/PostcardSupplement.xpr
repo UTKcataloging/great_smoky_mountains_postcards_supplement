@@ -151,6 +151,7 @@
         </options>
     </meta>
     <projectTree name="PostcardSupplement.xpr">
+        <folder path="../mods_by_pid/"/>
         <folder path="."/>
     </projectTree>
 </project>
