@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>Turn South Off Parkway At Traffic Light No. 6 - Only 2 Blocks and left one block. Air Conditioned - Television - Kitchenettes Available. Visit our Antique and Gift Shop. Phone (615) 436-5271 Mr. and Mrs. Homer Cole Owners &amp; Operators</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unsent postcard dated October 22, 1959.</abstract>
    <abstract>Complete photo store in the heart of the Great Smokies. Kodaks and films - all sizes, all types. Color filters. Kodacolor, Kodachrome, Ektachrome and Ansco color films, exposure meters and other camera accessories, movie cameras, projectors and screens rental and sale. Quick, dependable film developing service Jim Thompson's Smoky Mountain Pictures, Kodachrome slides, 8mm. and 16mm. Movies, murals and framed pictures. Dextone post cards and picture souvenirs. Sawyers Viewmaster and Tru-Vue Films. Cameras loaned free.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unsent postcard dated October 22, 1959</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

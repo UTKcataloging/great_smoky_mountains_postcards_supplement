@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>Sleep on the River - Fish from our Balconies - Kitchenettes - T.V. - Air Conditioned - Fireplaces - Cottages - Swimming Facilities - 25 Units with a large Lodge - Accommodations for singles, doubles, and large groups - Walking distance to Aerial Tramway, fine Restaurants, Gift Shops, and other activities. For Reservations: (615) 436-4994</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>1. Above the clouds at Sunrise 2. The Loop-Over - U.S. 441 3. Fall Colors int he Smokies 4. Black Bear 5. Tower atop Clingmans Dome 6. Winter Skiing Scene 7. Rhododendron in bloom 8. Chimney Tops seen from U. S. 441 9. A beautiful mountain stream</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

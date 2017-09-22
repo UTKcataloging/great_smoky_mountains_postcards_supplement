@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>Here the Newfound Gap Highway on the Tennessee side of the Great Smokies makes one wide complete circle instead of four sharp extremely dangerous curves that were on the old road at this point. When vegetation (flowering shrubs and wild flowers) again cover the slopes and center of the circle, as will soon be done, this spot will be even more attractive. This feature is only one of the many engineering achievements affording safe and comfortable traveling for any season of the year</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

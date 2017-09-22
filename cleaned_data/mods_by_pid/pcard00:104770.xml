@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>Private, shaded, and cool away from traffic. 18 Units with kitchenettes accommodating 2 to 10 people each - Fireplaces - Private Temperature Controlled Swimming Pool with Wading Pool - Shuffleboard and other recreational activities available - Picnic Area and Playground for children - Rates to families and groups - Special rates from Sept. 1 to June 1. Phone 436-4836. Mr. and Mrs. L. E. Carr, Owner-Manager. P.O. Box 26, Gatlinburg, Tennessee</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

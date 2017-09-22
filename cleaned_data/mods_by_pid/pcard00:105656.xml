@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>"In the foothills of the Great Smoky Mountains National Park". Enjoy good food served in our dining room with a superb view of the mountains. Home cooked meals with fresh vegetables from the farm. We feature our own country cured hams. Located on U.S. 441, 6 miles North of Gatlinburg, Tennessee, with ample parking space. Mr. &amp; Mrs. Henry Butler, Owners-Operators Phone 453-3530 - Sevierville, Tennessee</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

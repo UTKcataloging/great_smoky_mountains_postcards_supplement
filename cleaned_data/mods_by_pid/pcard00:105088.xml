@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard with handwritten note dated 1963.</abstract>
    <abstract>Mountain View Hotel, Gatlinburg, Tenn is the pioneer hotel of the SMokies. An ideal base for full year around enjoyment of the Great SMoky Mountains National Park. Swimming pool free to our guests, pool covered for winter swimming, horseback riding, shuffleboard, square dancing, golf privileges. Each room is modern with steam heat and bath. Delicious southern meals are served in the spacious dining room. Let us help you plan your convention. Hotel and dining room opena ll year. AAA approved. 100% air-conditioned. Free parking. Ski slopes and ice skating nearby. "America's newest winter playground."</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard with handwritten note dated 1963</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Handwritten note sent on August 25, 1955 to Mrs. and Mr. S. M. Phelps in Monmouth, Illinois for a postage of 2 cents.</abstract>
    <abstract>From the Newfound Gap Highway at about 2000 ft. elevation we see Bull Head (a spur of Mt. LeConte) at the left and Balsam Point (the west end of Mt. LeConte) in the background. One of the popular trails to Mt. LeConte - the Bull Head Trail - starting from Cherokee Orchard, goes up by Bull Head and Balsam Point.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Handwritten note sent on August 25, 1955 to Mrs. and Mr. S. M. Phelps in Monmouth, Illinois for a postage of 2 cents.</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

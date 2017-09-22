@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Handwritten note sent to Mrs. Jula Burgess in Grand Rapids, Michigan on August 17, 1959 for a postage of 3 cents.</abstract>
    <abstract>Neat and nicely furnished cottages in restful shaded grounds on U. S. Highway 441 in the edge of the city. Units of one or two rooms - Electric heat individually controlled - Tiled combination or shower baths - T. V. and Air Conditioning Available. Open March 1 to December 1. Phone 353. Mr. and Mrs E. E. Maples, Owners and Operators.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Handwritten note sent to Mrs. Jula Burgess in Grand Rapids, Michigan on August 17, 1959 for a postage of 3 cents.</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

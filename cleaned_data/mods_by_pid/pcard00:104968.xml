@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Handwritten note sent to Mr. and Mrs. J. H. Martin in Paducah, Kentucky on June 4, 1952.</abstract>
    <abstract>On Highway No. 71, Gatlinburg, Tennessee. Member Tennessee Motel Association. Cool, modern, stone lodges. Tile baths Automatic Heat - Log fireplaces - Beautyrest mattresses Wall to wall bigelow carpets. No pets, please. Rest and Honeymoon in the SMokies Ira A. McGiffin, Owner-Manager Phone 222.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Handwritten note sent to Mr. and Mrs. J. H. Martin in Paducah, Kentucky on June 4, 1952.</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

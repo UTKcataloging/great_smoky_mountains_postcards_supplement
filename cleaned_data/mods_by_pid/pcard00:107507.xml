@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>In this view of Mt. Le Conte we see a profile showing nearly all of the points or peaks of the mountain. Beginning at the left we see the "Jump-off," then going to the right, a small rise that leads to "Brushy." Next the "Main Top," then "Cliff-Top," "West Peak" and behind the tree "Balsam Point." The small rise between Cliff-Top and West Peak is not named. "The Orchard" is seen at the lower end of Rocky Spur in the center of the picture</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

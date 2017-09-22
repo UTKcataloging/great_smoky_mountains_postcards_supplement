@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>For nearly 40 years Wiley Oakley has been guiding hunters and tourists through the Smokies - among these being such noted persons as Henry Ford, John D. Rockefeller, Jr., and Kate Smith, the singer. He has appeared on the radio and recently has written a book entitled "Roaming with the Roaming Man of the Mountains", which tells some of his expereinces. A natural woodsman, he is never happier than when out among the trees, birds, and wild animals, and he is a familiar and well-loved sight to the visitors to this section</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

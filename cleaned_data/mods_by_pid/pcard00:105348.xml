@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>The newest idea in dining in Gatlinburg's newest restaurant. Buffet service in a delightful, relaxed atmosphere. Our meals are unsurpassed for quality and quantity. Go back for secods of our delicious foods. Free parking in our spacious parking lot. Five hot meats. Five hot vegetables. Twenty-five salad varieties (fresh and crisp on crushed ice). Located opposite Gatlinburg's new Chamber of Commerce building and free parking lot. Phone 436-4157</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

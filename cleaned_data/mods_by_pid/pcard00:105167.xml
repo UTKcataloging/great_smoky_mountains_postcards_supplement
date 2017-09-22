@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unsent postcard signed by Mrs. Klein on July 29, 1960.</abstract>
    <abstract>New and ultra modern motel above the noise of the highway with balconies overlooking Gatlinburg and the Little Pigeon River, features 2 acres of beautifully landscaped grounds, picnic area, private heated pool, pine paneled and wall-to-wall carpeted units with free T.V., tiled tub and shower baths, electric heat and dressing rooms. Excellent restaurants within one block. For reservations, phone 601 or write Mr. &amp; Mrs. E. B. Reagan.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unsent postcard signed by Mrs. Klein on July 29, 1960</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

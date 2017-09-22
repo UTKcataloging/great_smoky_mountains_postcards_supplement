@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Handwritten note sent June 15, 1956 to D. L. O[illegible] in Germantown, Ohio for postage of 2 cents.</abstract>
    <abstract>New 32 unit court. 100% air-conditioned. Free radios. Television on lawn. Kitchenettes available. Electric heat. Badminton, shuffleboard, croquet, horseback riding, huided tours. Private swimming and wading pools. Phone 3490 - Sevierville, Tenn. Mr. &amp; Mrs. James McAfee, Owners &amp; Operators.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Handwritten note sent June 15, 1956 to D. L. O[illegible] in Germantown, Ohio for postage of 2 cents.</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

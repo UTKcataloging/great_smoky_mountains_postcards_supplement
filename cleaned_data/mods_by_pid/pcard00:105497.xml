@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>The Fort Weare Game Park is located at Pigeon Forge, Tennessee on U. S. Highway 73, between Knoxville and Gatlinburg. It is situated near the original Fort Weare which was named in honor of Colonel Samuel Wear, pioneer of Tennessee and a soldier of four wars, colonial, revolution, indian and 1812. The Miller Brothers, owners of Fort Weare Game Park, invite you to visit this animal kingdom and see the finest of nature's specimens of wild life.... shown in an authentic pioneer atmosphere.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>This is an ideal base from which to see the charm and grandeur of the Great Smokies. Located at Gatlinburg, Tennessee - headquarters of the Great Smoky Mountains National Park - we are within easy reach of all parts of the park and the picturesque surrounding country. Southern Style home-cooked food is featured in our big, airy dining room, with a pleasing variety of wholesome, appetizing food served in generous family style portions. Whether you want to spend an active vacation, seeing the thrilling sights of the Great Smokies or just to rest from your daily routine - the New Riverside Hotel offers every convenience and comfort.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

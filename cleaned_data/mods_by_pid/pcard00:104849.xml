@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Handwritten note sent to Mr. and Mrs. Riley Baker and Polly Ann in Ashland City, Tennessee on June 18, 1950 for a postage of 2 cents.</abstract>
    <abstract>"Entrance to Great Smoky Mountains Nat'l. Park" The Hagewood Motel located one block from entrance to the Great Smoky Mountains National Park. Highway 441 on the Little Pigeon River, with private porches over the river. Connecting rooms, Kitchenettes available. Completely air conditioned. Television on the front lawn. Ample parking space and recommended restaurants nearby. Private swimming pool. Mr. and Mrs. Lorris V. Hagewood Owners and Mgrs. Phone 116.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Handwritten note sent to Mr. and Mrs. Riley Baker and Polly Ann in Ashland City, Tennessee on June 18, 1950 for a postage of 2 cents</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

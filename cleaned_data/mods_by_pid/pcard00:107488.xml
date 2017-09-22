@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>Situated near the summit of 6593' Mt. LeConte in the Great Smoky Mountains National Park, is reached only by foot trail or horseback from points near Gatlinburg, Tennessee. Appealing to those who enjoy peace and quiet of rugged mountain surroundings LeConte Lodge has been in operation for more than 50 years. For reservations call: 436-4473 or write P. O. Box 350 Gatlinburg, Tennessee 37738</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

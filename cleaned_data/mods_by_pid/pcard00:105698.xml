@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>1920 Peerless, V8, 7 Passengers. One of the "Three P's"; (Pierce-Arrow, Peerless, Packard). On display at Smoky Mountain Car Museum, Pigeon Forge, Tenn. This unique attraction featuring restored vehicles of all ages is only ten minutes from Gatlinburg, and the Great Smoky Mountains. Special added attractions, Hank Williams, Jr.'s customized card, decorated with 547 silver dollars, cost $22,000; and James Bond's 007 car used in the movies "Goldfinger and Thunderball." Open seasonal, realistic admissions</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

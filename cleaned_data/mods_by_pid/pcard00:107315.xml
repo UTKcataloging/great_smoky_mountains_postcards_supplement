@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Handwritten note sent to Barbara Stevens in Marion, Indiana on July 2, 1947 for a postage of 1 cent.</abstract>
    <abstract>This is one of the spectacular engineering features of the Newfound Gap Highway. TO the right may be seen the majestic Chimney Tops, which dominate the view the first few miles of the highway.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Handwritten note sent to Barbara Stevens in Marion, Indiana on July 2, 1947 for a postage of 1 cent.</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>This large parking area is on top of the main range of the Great Smoky Mountains on the North Carolina-Tennessee State Line. It is the highest point on the Transmountain Highway being 5045 feet above sea level. At the far end of the parking area is the stone terrace memorial to Laura Spelman Rockefeller, whose son John D. Rockefeller, Jr. matched the money raised through donations and public funds to buy land for the Park</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

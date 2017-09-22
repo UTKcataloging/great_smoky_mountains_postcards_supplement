@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Handwritten note sent to Mr. and Mrs. Glen Newkirk in Crawfordsville, Indiana on August 31, 1970 for a postage of 6 cents.</abstract>
    <abstract>Rising more than a mile above its base, Mt. LeConte has a number of popular trails to its summit for both the hiker and the horseback rider. On its summit is a rustic lodge where meals and overnight accomodations are available.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Handwritten note sent to Mr. and Mrs. Glen Newkirk in Crawfordsville, Indiana on August 31, 1970 for a postage of 6 cents.</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

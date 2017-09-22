@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>The superlative in scenic motoring is presented in a trip up the Newfound Gap Highway and out the Skyway in the Great Smoky Mountains National Park. With an elevation of 6311 feet the end of the Skyway is the highest spot reached by a paved public highway in eastern America. A splendid half-mile trail leads from this spot to the observation tower on the 6642-foot summit of Clingmans Dome, the highest point in the Great Smokies.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

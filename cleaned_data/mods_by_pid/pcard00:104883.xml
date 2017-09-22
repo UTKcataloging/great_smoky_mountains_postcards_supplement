@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Handwritten note sent to Mr. Mose S[illegible] in Victor, Iowa on October 22, 1962 for a postage of 3 cents.</abstract>
    <abstract>This modern court at the foot of the Great Smoky Mountains is fully equipped with air conditioning, room television, electric heat and ceramic tile combination tub and shower. Phone 436-485 - Residence 436-4854 Mr. and Mrs. Arthur J. Oakley, Owners-Operators.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Handwritten note sent to Mr. Mose S[illegible] in Victor, Iowa on October 22, 1962 for a postage of 3 cents.</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Typed note sent from Mrs. Adeline Brubaker to Miss Mildred Lacey in Woodlawn, Illinois on August 28, 1946 for a postage of 1 cent.</abstract>
    <abstract>Otha King Cabins - Gatlinburg, Tennessee - Located at the entrance to the Great Smoky Mountains National Park. Excellent Accommodations - Private Baths - Innerspring Mattresses - Old Mill Craft Shop in connection - Unexcelled view of majestic Mt. Le Conte. Reasonable Rates. 1/10 mile off highway 71.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Typed note sent from Mrs. Adeline Brubaker to Miss Mildred Lacey in Woodlawn, Illinois on August 28, 1946 for a postage of 1 cent.</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

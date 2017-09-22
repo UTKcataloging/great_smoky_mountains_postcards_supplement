@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>Unmatched varieties of wild flowers constitute the greatest attraction of the Great Smokies. In this picture we see the Catawbiense (purple) Rhododendron bordering the Alum Cave Trail to Le Conte. This trail is one of the most attractive in this park, for if you hike only a short distance or the full length of the trail to the top, there are points of interest all along the way. This view is toward the evening light, showing the Sugarland Mountains in the middle distance, with Miry Ridge and possible Thunderhead in the distance</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

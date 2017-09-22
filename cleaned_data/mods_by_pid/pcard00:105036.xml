@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Handwritten notes sent to Mr. and Mrs. Roy Prensser and family in Saint Louis, Missouri on July 20, 1960 for a postage of 4 cents.</abstract>
    <abstract>38 Air-Conditioned Units. Wall to Wall Carpet. Swimming Pool privileges. T.V. Room. Telephones. Open all year. Mr. &amp; Mrs. M. O. Clabo, owners and managers. Phone 570.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Handwritten notes sent to Mr. and Mrs. Roy Prensser and family in Saint Louis, Missouri on July 20, 1960 for a postage of 4 cents.</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

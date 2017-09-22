@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>5 miles north of Gatlinburg, Tennessee in the foothills of the Great Smokies. One block from beautiful downtown Pigeon Forge. 160 sites with full hook-ups. Scenic location with three levels of sites. Onsite facilities include - swimming pool, clean restrooms with hot showers, laundry and drive-thru spaces. Store and restaurant within walking distance. Close to all major attractions. Phone 1-615-453-4129 for reservations</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

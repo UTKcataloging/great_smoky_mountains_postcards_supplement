@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Handwritten note sent to Mrs. E. R. Spooner in Winchendon, Massachusetts on April 9, 1954 for a postage of 2 cents.</abstract>
    <abstract>Gatlinburg-in-the-Smokies, Tennessee Highway 71 - Main Street - Tel. 359 Beautyrest mattresses, twin &amp; double beds, electric heat, with or without electric kitchens. Tile baths. Albert Robbins, Owner Grade "A" Court Air Conditioned.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Handwritten note sent to Mrs. E. R. Spooner in Winchendon, Massachusetts on April 9, 1954 for a postage of 2 cents.</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

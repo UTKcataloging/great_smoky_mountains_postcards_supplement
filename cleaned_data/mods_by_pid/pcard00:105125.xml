@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Handwritten note sent to the Goebel Family in Eau Claire, Wisconsin on June 29, 1970 for a postage of 5 cents.</abstract>
    <abstract>Located Downtown, on the parkway, near the entrance to the Great Smoky Park. 22 Modern Units. 2 to 6 room suites with complete kitchens. Color T.V. Air Conditioned - Wall to wall carpet. Room Phones. Restaurant across the street. All major credit cards accepted. Phone: 436-5818 - 436-5356.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Handwritten note sent to the Goebel Family in Eau Claire, Wisconsin on June 29, 1970 for a postage of 5 cents.</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

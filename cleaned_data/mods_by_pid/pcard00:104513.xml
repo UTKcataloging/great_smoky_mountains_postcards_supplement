@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>Gatlinburg is a recognized center for mountain crafts where you can see skilled artisans creating their handmade products. Located here is the Pi Beta Phi Settlement School which has done so much to revive original handicraft arts.  The historical drama "Chucky Jack" is presented nightly except Sunday from late June through August in the Hunter Hills Theatre, a spectacular open air amphitheatre.  Added to the already popular convention facilities, the city has provided a new modern $400,000 Civic Auditorium - seating 2000 with banquet facilities for 1001.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

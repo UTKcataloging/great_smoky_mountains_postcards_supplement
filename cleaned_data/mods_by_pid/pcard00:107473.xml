@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Handwritten note sent to Mrs. Marion Bernard in Nashville, Tennessee on June 7, 1960 for a postage of 4 cents.</abstract>
    <abstract>Looking east from Chinquapin Ridge and over the town of Gatlinburg, which is hidden by the trees in the near foreground, we see in the distance, Mt. Guyot and at at the right of it Mt. Chapman. They are located on the state line of North Carolina and Tennessee. Mt. Guyot is the third highest peak in the eastern United States, reaching an altitude of 6221 feet above sea level. Mt. Chapman's elevation is 6425 feet.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Handwritten note sent to Mrs. Marion Bernard in Nashville, Tennessee on June 7, 1960 for a postage of 4 cents.</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

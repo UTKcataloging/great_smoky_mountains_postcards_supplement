@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>In the foothills of the Great Smoky Mountains National Park, just six miles from Gatlinburg, Tennessee. Visit the Apple Tree Patio for outdoor dining, with an excellent view of the mountains from all sides. Superb food, featuring fresh vegetables from our farm, genuine country ham, and our own famous warm fresh apple pie baked daily. Ample parking space. Located on U.S. 441. Phone 453-4961 Sevierville, Tenn. Mildred &amp; Dick Bunting Owners-Operators</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

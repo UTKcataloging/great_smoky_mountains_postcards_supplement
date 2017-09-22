@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>We are located on the south end of Pigeon Forge, Tennessee, U.S. 441. Only 5 minutes from Gatlinburg and 8 minutes from the Great Smoky Mountain Park Headquarters. Easy access to the park using the Gatlinburg By-Pass when you stay at the Riveredge. Hot and cold showers - picnic tables - large heated swimming pool - laundry facilities - complete hookups and dumping station and pull through sites. Grocery store and restaurant within walking distance. Open all year. Call or write: Riveredge Travel Trailer Park, Huskey Lane, Pigeon Forge, Tennessee 37863. Phone (615) 453-5813 - Ronald Huskey - Owner</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

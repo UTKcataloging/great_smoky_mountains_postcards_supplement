@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Handwritten note sent to Mrs. Nora Creel and Miss Estelle Creel in Bessemer, Alabama on July 19. 1954 for a postage of 2 cents.</abstract>
    <abstract>A striking view of the towering Chimney Tops, altitude 4740 ft. The highway winds its way past these majestic peaks to Newfound Gap at the top of the main range. The Chimneys offer the hiker one of the stiffest climbs in the park.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Handwritten note sent to Mrs. Nora Creel and Miss Estelle Creel in Bessemer, Alabama on July 19. 1954 for a postage of 2 cents.</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

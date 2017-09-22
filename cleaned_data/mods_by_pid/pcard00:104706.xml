@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>Ideal tourist accommodations in the heart of the Smoky Mountain country, less than a mile from the entrance to the Great Smoky Mountains National Park. Mountain Manor is located on Airport Road in Gatlinburg, Tennessee. Within walking distance of the court there is a swimming pool, out-door bowling alleys, miniature golf, archery and rifle shooting gallery, and excellent restaurants; Clean, comfortable vacation accommodations at the entrance to the Great Smoky Mountains National Park. Wall to wall carpeting, tile baths with combination tub and shower. Open all year. Phone 448. Mr. and Mrs. Buford Reagan, Owners and Managers.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

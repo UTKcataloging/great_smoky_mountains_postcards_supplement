@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>Far from all the turmoil of a busy world there's an old log-cabin on a mountain side. Oh, the happiness packed in that humble home! Snug within its walls, faith, hope and love abide. There is smoke still coming out the chimney top; I can see the laurel blooming by the road..... I can hear the barking of those old hound-dogs as approaching oxen pull their heavy load. On those sunny slopes of cherished, Southern hills, in our care-free days of youth, we climbed and played. Many years have come and gone, and much too fast; How I wish those child-hood joys had longer stayed! In a changing world we'll keep our memories of that ivy-covered, cabin-home back there. While the native birds sing and sweet flowers bloom, Mountain folk stand ready mankind's load to share! - Harry Russell Wilkins</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

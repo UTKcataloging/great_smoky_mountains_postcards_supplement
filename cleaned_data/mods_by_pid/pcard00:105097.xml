@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Handwritten note sent to Mrs. Virginia Jett and Mrs. Edith Jett in Lexington, Kentucky on July 30, 1962 for a postage of 3 cents.</abstract>
    <abstract>Mountain View Hotel, Gatlinburg, Tenn. is the pioneer hotel of the Smokies. An ideal base for full year around enjoyment of the Great SMoky Mountains National Park. Modern swimming pool free to our guests, horseback riding, shuffleboard, square dancing, golf privileges. Each room is modern with steam heat and bath. Delicious southern meals are served in the spacious dining room. Let us help you plan your convention during our convention seasons: September; Nov. 1 to July 1. Hotel and dining room open all year. AAA approved. 100% air-conditioned. Free parking.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Handwritten note sent to Mrs. Virginia Jett and Mrs. Edith Jett in Lexington, Kentucky on July 30, 1962 for a postage of 3 cents.</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

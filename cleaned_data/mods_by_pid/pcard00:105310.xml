@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Handwritten note sent to Mr. R. B. Leas in Noblesville, Indiana on October 8, 1960 for a postage of 3 cents.</abstract>
    <abstract>Gatlinburg's finest and most beautiful restaurant. Serving food of distinction. Specializing in family style lunch and delicious dinners. Situated at the Junction of Routes 71-73-441. Mr. &amp; Mrs. Gerald Hays, Mgrs. Phone -1.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Handwritten note sent to Mr. R. B. Leas in Noblesville, Indiana on October 8, 1960 for a postage of 3 cents.</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

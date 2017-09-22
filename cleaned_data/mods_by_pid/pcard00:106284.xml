@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Handwritten note sent to Miss Mary Ann Boue in Lebanon, Tennessee on August 11, 1948 for a postage of 1 cent.</abstract>
    <abstract>Rugged mountain peaks, looming high above the road, are always beautiful. They, however, do not provide all of the roadside interest or beauty. Often a gnarled old forest patriarch holds the center of interest. Without the picturesque tree, this view of the Chimney Tops would have much less of beauty. This is seen from the Newfound Gap Highway, about a mile below the lower tunnel.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Handwritten note sent to Miss Mary Ann Boue in Lebanon, Tennessee on August 11, 1948 for a postage of 1 cent.</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

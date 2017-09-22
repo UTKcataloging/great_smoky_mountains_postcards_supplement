@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>Hotel Greystone was designed and built to serve the more discriminating visitors to the Great Smokies. It is one of the South's truly beautiful hotels. A spacious dining room offers plenty of food and an appetizing variety of menus - Home cooked - southern style. The large cozy veranda overlooks a beautiful lawn, and faces directly toward majestic Mt. LeConte, the Grandstand of the Great Smokies.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

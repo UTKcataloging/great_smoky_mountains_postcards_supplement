@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>Newfound Gap, elevation 5045 feet, is where the road of the same name crosses the chain of the Great Smokies. At the right is seen the starting point of the impressive Skyway, highly scenic park road, that swings gracefully near the crest of the mountain and climbs gently to an elevation of 6311 feet, near the top of 6642 foot Clingmans Dome - highest peak in the park. A glimpse of this peak is seen in the left background. At the left or straight ahead the road extends down in North Carolina</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

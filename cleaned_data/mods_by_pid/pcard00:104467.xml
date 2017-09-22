@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>.</abstract>
    <abstract>Visitors touring the Smokies should be sure to visit this unique and most attractive shop here will be found a most interesting display of artistic mountain crafts jewelry, pottery, weaving, etc. on display also are many paintings, etchings and drawings of the Smokies don't miss it you'll like it.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,7 +22,7 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>

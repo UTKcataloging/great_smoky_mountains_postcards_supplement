@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Handwritten note sent to Mrs. M. M. Boyd in Fort Myers, Florida on July 31, 1963 for a postage of 4 cents.</abstract>
    <abstract>Newfound Gap is the hub of the Great Smoky Mountains National Park, with roads leading from this point to Cherokee, Clingman's Dome, and Gatlinburg.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Handwritten note sent to Mrs. M. M. Boyd in Fort Myers, Florida on July 31, 1963 for a postage of 4 cents.</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

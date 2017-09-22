@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>One of Gatlinburg's newest motels. On Airport Road south of Civic Auditorium. Large rooms, some connecting, all with TV., air-conditioning, wall-to-wall carpet, combination shower-tub, electric heat &amp; heated pool. Quiet &amp; restful, yet close to everything. Roy &amp; Lois Ledwell, Owner-Mgr. Phone 436-5304 Gatlinburg, Tennessee</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

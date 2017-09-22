@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>33 Units with central heating and air conditioning. Rooms and suites for 1 to 12 persons, large lounge and conference rooms - room phones and free T. V. and Hi-Fi in every room. Carpeting combination tile tub and showers. Interior sun deck and recreation area with heated pool at sun deck level. All units with individual refrigerator and continental breakfast. Near excellent eating places. Terrace and walk on the river. For reservations write box 421, or phone 436-4151, Gatlinburg, Tennessee. Half block from sky lift overpass and christus biblical gardens on river road open all year.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

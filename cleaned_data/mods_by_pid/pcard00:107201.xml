@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>Here the word Falls is used in the plural advisedly, for there are really two separate and distinct falls - one immediately above and the other immediately below the trail. The trail crosses the beautiful stream on a fifteen foot shelf that separates the two falls. In this view we see only the upper falls. The lower unit is equally interesting and just as large. This beauty spot is only 1.3 miles from the paved Scenic Loop Highway at Fighting Creek</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>Located on U.S. 441. 5 miles north of the Smokies. 20 modern units. 100% air conditioned. Electric heat. T.V. Private swimming pool. Combination tub and shower tile baths. Restaurant nearby. Convenient to Gatlinburg golf course and country club and the rebel railroad. Norma Jean and Dan B. Conner Owners-Operators Phone 453-2403 Sevierville, Tennessee</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Handwritten note sent to Mrs. Otto Rininsland in Fort Lauderdale, Florida on August 28, 1953 for a postage of 2 cents.</abstract>
    <abstract>The ruggedness of Chimney Tops cannot be appreciates until one climbs to the top. Here we see the highway winding its way through the valley. Flowering shrubs grow from every crevice and during the flowering season when the Rhododendron and Allegheny Myrtle are in bloom it is a gorgeous sight.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Handwritten note sent to Mrs. Otto Rininsland in Fort Lauderdale, Florida on August 28, 1953 for a postage of 2 cents.</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

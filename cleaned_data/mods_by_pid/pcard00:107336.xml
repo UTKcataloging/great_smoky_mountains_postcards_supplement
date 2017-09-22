@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Handwritten note sent to Mr. and Mrs. W. G. Hairston in Birmingham, Alabama on July 26, 1940 for a postage of 1 cent.</abstract>
    <abstract>The Loop is one of the most unique features on the Newfound Gap Highway in the Great Smoky Mountains National Park. Here the road makes one complete circle instead of four sharp curves that were on the old road at this point. From the Loop can be seen the famous Chimney Tops, which is one of the most rugged and picturesque peaks of the smokies.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Handwritten note sent to Mr. and Mrs. W. G. Hairston in Birmingham, Alabama on July 26, 1940 for a postage of 1 cent.</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

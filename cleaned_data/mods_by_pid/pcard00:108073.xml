@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>Great Smoky Mountains National Park astride the Tennessee - North Carolina border, though one of the newest, has become one of America's most favored parks. The Smoky Mountains, for 36 consecutive miles in the park are more than 6,000 ft. high. The Loop-Over is one of the most spectacular views in the park. Chimney Tops may bee seen in right background. Laurel Falls are actually two falls, separated at a 15-foot shelf by a trail. The upper fall is shown on this card</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Handwritten note sent to Bill Frantz in Fennimore, Wisconsin on October 4, 1971 for a postage of 6 cents.</abstract>
    <abstract>These beautiful falls may be seen after a 1.3 mile hike, beginning at Fighting Creek Gap. Being one of the easiest hikes makes it one of the most popular.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Handwritten note sent to Bill Frantz in Fennimore, Wisconsin on October 4, 1971 for a postage of 6 cents.</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

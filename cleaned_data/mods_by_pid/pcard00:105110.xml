@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>Located on Highway 73, Roaring Fork Road, two blocks from center of Gatlinburg and Business district, in a quiet and secluded place. Private Swimming Pool - Free TV in every room - Completely Air-Conditioned - Automatic Heat. Reservations welcomed by phone or letter Telephone Gatlinburg, Tenn. 436-4676 Mr. and Mrs. Charles R. Ogle, Owners-Managers</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

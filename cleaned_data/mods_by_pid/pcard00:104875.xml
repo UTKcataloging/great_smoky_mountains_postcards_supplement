@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>Twelve all modern air conditioned units - two with complete electric kitchens - quiet and cool location only 1/4 mile from center of Gatlinburg - Turn off main street at Mountain View Hotel onto Roaring Fork Road - Tenn. route 73 - Reasonable Rates - Overnight - Weekly - or Seasonal. Mr. &amp; Mrs. W. L. Luther Owners-Managers Grade "A" Phone 203 Gatlinburg, Tennessee National Auto Ass'n. Recommended</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

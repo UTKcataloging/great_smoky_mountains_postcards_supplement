@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>33 Units with central heating and air conditioning. Room phones, free TV and Hi-Fi, refrigerator and free coffee in every room. Free baby cribs and strollers. Baby sitters available. Large lounge and conference room. Heated pool on the mountainside at interior sun deck and third floor level. Terrace and walk on the river. Near excellent eating places. One-half block from shopping area. For reservations write Box 421 or phone 436-4151, Gatlinburg, Tennessee. Owner Operated Mr. and Mrs. Buford A. Townsend and Mr. and Mrs. Edward B. Hodges Open All Year.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

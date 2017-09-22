@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>Located across the Pigeon River from the Old Mill, this shop features all handcrafted originals. Fascinating "Stonefolk" collages will capture your fancy in crafts; with prints, jewelry, garden sculptures, hand thrown pottery and paintings to satisfy contemporary to colonial decords. Truly the ultimate in unusual distinctive grifts of fine arts and crafts at The Stonefolk Shop.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

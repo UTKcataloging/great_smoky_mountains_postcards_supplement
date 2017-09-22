@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>On Tennessee Highway 73; Bank of Beautiful Roaring Fork Creek. Convenient To Everything Yet Away From The Bustle Of Downtown Traffic. Electric Heat - Air Conditioned - Tile Baths - Television - Some Units With Kitchens - Heated Guest Pool - Open Year Around. Phone 436-5219 Mr. and Mrs. Dewey Ogle Owners-Operators</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

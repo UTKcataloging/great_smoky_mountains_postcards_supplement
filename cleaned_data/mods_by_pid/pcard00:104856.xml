@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Handwritten note sent to the Albrechts in Kalamazoo, Michigan on October 13, 1962 for a postage of 3 cents.</abstract>
    <abstract>Air-Conditioned, modern court on Baskins Creek - at the Main Tennessee Entrance to the Great Smoky Mountains National Park. Free T.V. in each room and New Heated Pool for your pleasure. Phone 436-4881 Mrs. Lee Johnson &amp; Mrs. Meed Porter, Managers.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Handwritten note sent to the Albrechts in Kalamazoo, Michigan on October 13, 1962 for a postage of 3 cents.</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

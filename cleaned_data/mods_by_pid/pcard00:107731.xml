@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>Smoky Mountain Trailways will take you through the heart of America's favorite park. You'll travel via "scenery level" routes along hillsides covered with blooming laurel, past the Cherokee Indian Reservation, through historic Newfound Gap. These and many other scenic wonders await you when you buy either a North-South or East-West ticket along the Trans-Park Highway between Knoxville, Tennessee and Asheville, North Carolina</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

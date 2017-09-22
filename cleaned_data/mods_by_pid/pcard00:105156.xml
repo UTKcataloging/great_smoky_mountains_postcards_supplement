@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Handwritten note sent to the Goodnours in Bay VIllage, Ohio on April 19, 1955 for a postage of 2 cents.</abstract>
    <abstract>Nineteen units. Attractive native stone and rustic shingle cottages. Private baths. Steam or electric heat. Eight all electric completely equipped kitchenettes. John M. WInscott, Owners Phone 26J.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Handwritten note sent to the Goodnours in Bay VIllage, Ohio on April 19, 1955 for a postage of 2 cents.</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

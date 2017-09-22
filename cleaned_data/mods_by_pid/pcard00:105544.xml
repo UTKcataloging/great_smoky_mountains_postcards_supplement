@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>This modern motor court is equipped with electric kitchens, electric heat, cool comfort in a peaceful river-side setting. A place to relax and enjoy the scenic beauties of the Great Smoky Mountains National Park. Ample parking space, drive-in theater and recommended restaurants nearby. U. S. 441. Phone 3557, Sevierville, Tennessee. Mr. and Mrs. Dock Teague</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

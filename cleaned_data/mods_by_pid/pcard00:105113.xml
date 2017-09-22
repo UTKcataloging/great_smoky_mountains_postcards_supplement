@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>40 new spacious extra clean units - Individually controlled Air Condition and Heat - Shag Wall-to-Wall Carpet - All Color T.V. - Heated Swimming Pool - In Room Coffee - Penthouse Suites Available - Ski and Group Rates Available on Request. Located on Parkway 3 Blocks from Center of Town. Open All Year. Locally Owned and Operated. Write or Call - P.O. Box 708 - Gatlinburg, Tennessee 37738 Area Code 615 - 436-5652 James &amp; Mary Lee Barnes, Mgr.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

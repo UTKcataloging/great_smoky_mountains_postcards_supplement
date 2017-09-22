@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>One of Gatlinburg's newst and most modern on Highway 73 (3 minutes drive from center of town). Private heated pool, with kiddy pool. Electric Heat. Wall-to-Wall Carpet. 100% Air Conditioned. Tile Baths, Tub and Showers. Free T.V. in every room. In-Room coffee. Outdoor Grill. Sun Deck. Units With or Without Kitchens. Every Unit has Private Entrance and Porches. Accommodations for all size Parties. Quiet and Restful. Horseback Riding. Spacious Playground. Reasonable Rates. For Reservations: Phone 436-4838 or Virgil's Texaco Station 436-4109 Mr. &amp; Mrs. Virgil Trentham, Owners-Operators.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

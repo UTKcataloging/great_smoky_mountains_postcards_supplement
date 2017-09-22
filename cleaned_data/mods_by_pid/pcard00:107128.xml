@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>Near lovely winding paths there are wild violets and laurel too, refreshed by cooling waters from a crystal spray, like morning dew. Song birds, game fish, and mountain-lure cause countless tourists, every year, to seek the trails of Indian braves, where still we find black bear and deer. Range after range and peak on peak, as far as human eye can see, and yet the half is never seen - such beauty and such majesty! A vast domain, a land beyond description by the pen of man; we pause and lif our eyes to God; how wonderful is Nature's plan! - Harry Russell Wilkins</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

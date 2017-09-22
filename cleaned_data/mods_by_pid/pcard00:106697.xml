@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Handwritten note sent to Mr and Mrs Roy Olliphant in Kingston Springs, Tennessee on August 14, 1964 for a postage of 4 cents.</abstract>
    <abstract>Completed in 1959 this new observation tower atop the Park's highest peak affords the visitor spectacular views of the surrounding mountains in every direction. The tower is reached by an easy 1/2 mile paved trail from the parking area on Clingman's Dome.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Handwritten note sent to Mr and Mrs Roy Olliphant in Kingston Springs, Tennessee on August 14, 1964 for a postage of 4 cents.</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

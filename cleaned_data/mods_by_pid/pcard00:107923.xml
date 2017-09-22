@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>The mighty Smokies range is crossed near its center by the trans-park highway at Newfound Gap, where travelers enjoy some of the most thrilling scenery in America. Only through bus service actually crossing the heart of the Park is Smoky Mountain Trailways, connecting at Asheville, Knoxville, Chattanooga, and Atlanta with other bus services. In buying a north-south or east-west ticket, ask your agent to route your trip through the heart of the Great Smoky Mountains National Park, on comfortable Trailways busses</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

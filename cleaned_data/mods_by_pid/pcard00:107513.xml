@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Handwritten note sent to Miss Rita Feeney in Thompsonville, Connecticut on August 13, 1956 for a postage of 2 cents.</abstract>
    <abstract>An impressive view of majestic Mt. LeConte as seen from the Sky-Lift. Part of the unique town of Gatlinburg, Tennessee is seen at its base. Mt. LeConte, a mile higher than its immediate base, and with an elevation of 6593 feet, is eastern United States' "Tallest" mountain.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Handwritten note sent to Miss Rita Feeney in Thompsonville, Connecticut on August 13, 1956 for a postage of 2 cents.</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

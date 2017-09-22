@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Handwritten note to Mrs. A. R. Taylor in Battle Creek, Michigan sent on September 27, 1962 for a postage of 3 cents.</abstract>
    <abstract>This modern auditorium, completed at a cost of over half a million dollars, has a seating capacity of 2000 persons, with a dining capacity of 1000.  Complete stage facilities, conference space and exhibit space are available for events of local and statewide interest such as the Fall Handicraft Fair.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Handwritten note to Mrs. A. R. Taylor in Battle Creek, Michigan sent on September 27, 1962 for a postage of 3 cents.</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

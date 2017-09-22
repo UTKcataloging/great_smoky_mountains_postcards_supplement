@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Handwritten note sent to Mr. and Mrs. Dunk Barkley in Romeo, Michigan on April 2, 1971 for a postage of 6 cents.</abstract>
    <abstract>A modern all steel observation tower served by two elevators with a capacity of 20 persons each and traveling at a speed of 453 feet per minute. The observation deck can hold up to 250 people and offers spectacular views of the Great Smoky Mountains and of the resort city of Gatlinburg. The tower is 342 feet above the ground and 407 feet above the Little Pigeon River. Total weight of the tower is 4,000,000 pounds and construction time was 380 days.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Handwritten note sent to Mr. and Mrs. Dunk Barkley in Romeo, Michigan on April 2, 1971 for a postage of 6 cents.</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

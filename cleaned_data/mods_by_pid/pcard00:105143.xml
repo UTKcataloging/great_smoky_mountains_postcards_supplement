@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Handwritten note sent to Mrs. Carroll B. McLean Fort Meyers, FLorida on November 7, 1959 for a postage of 3 cents.</abstract>
    <abstract>At entrance to the Great Smoky Mountains National Park. A modern hotel located in the heart of Gatlinburg. Ample parking space. Shaded grounds overlooking river. 100 air-conditioned, comfortable rooms with private bath. Hotel cars available for scenic tours. Temperature-controlled swimming pool. New air-conditioned dirning room overlooking patio and pool. Phone 373. J. T. Trotter, Mgr.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Handwritten note sent to Mrs. Carroll B. McLean Fort Meyers, FLorida on November 7, 1959 for a postage of 3 cents.</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

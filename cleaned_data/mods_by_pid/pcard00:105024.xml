@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Handwritten note sent to Mrs. Mae Veazey in Pinebluff, North Carolina on September 11, 1956 for a postage of 2 cents.</abstract>
    <abstract>Modern motel of native stone construction. Combination tub and shower baths in each unit. Wall ot Wall carpet. Open all year. Mr. &amp; Mrs. M. O. Clabo, Owners and Managers Gatlinburg, Tennessee.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Handwritten note sent to Mrs. Mae Veazey in Pinebluff, North Carolina on September 11, 1956 for a postage of 2 cents.</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

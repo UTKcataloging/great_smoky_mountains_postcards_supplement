@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Handwritten note sent to Mr. and Mrs. Dwight Sneed in Union Grave, Wisconsin on July 14, 1967 for a postage of 4 cents.</abstract>
    <abstract>Located on Airport Road, one and one-half blocks south of Parkway (U.S. 441). Forty-four units to accommodate two to six people. One apartment with fireplace. One kitchenette with fireplace. Modern in every respect. Wall-to-Wall carpet. No Pets. Air-conditioned. Electric Heat. Combination tub and shower. Heated swimming pool with children's pool. Room phones. T.V. Music in rooms. Convenient to Civic Auditorium and the heart of Gatlinburg. Gatlinburg Ski Run nearby. Open all year. Lee and Verla Crosno, Owners-Managers Gatlinburg, Tennessee Phone 436-4104.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Handwritten note sent to Mr. and Mrs. Dwight Sneed in Union Grave, Wisconsin on July 14, 1967 for a postage of 4 cents</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

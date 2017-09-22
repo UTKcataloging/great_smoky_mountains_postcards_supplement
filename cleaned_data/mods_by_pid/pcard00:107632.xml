@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>Mt. LeConte, with an elevation of 6,580 feet, rises a mile higher than the village of Gatlinburg, at its base. A good mountain road extends four miles to Cherokee Orchard, half way to the top. The remaining four miles is a rough, but interesting hiking trail. The beautiful Rhododendron is one of the most prolific wild flowers of the 565 varieties, which bloom profusely in this park during the season</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

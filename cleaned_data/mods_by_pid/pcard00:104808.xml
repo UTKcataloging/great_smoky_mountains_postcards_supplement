@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Handwritten note sent to "D".</abstract>
    <abstract>3 Blocks From Downtown. Private Swimming Pool, Spacious Rooms, Kitchenettes. All Rooms Have Refrigerators. Ceramic Tile Baths With Tubs And Showers. Wall To Wall Carpet, T. V., Air Conditioning, F. M. Music. Quiet And Restful. A Home Away From Home. Fine Restaurants Nearby. Phone 436-4517 Paul L. Nicely - Owner.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Handwritten note sent to "D"</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

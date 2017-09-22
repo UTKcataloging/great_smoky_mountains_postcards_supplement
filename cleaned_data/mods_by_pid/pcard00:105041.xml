@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>Gatlinburg, Tennessee. Located on Airport Road one and one-half blocks south of Parkway (U.S. 441). Twenty-four units to accommodate two to six people Modern in every respect. Wall to Wall carpet. Air-conditioned. Electric Heat. Combination tub and shower. Private swimming pool. Room phones. T.V. Convenient to Civic Auditorium and the geart of Gatlinburg. No Pets. Mr. &amp; Mrs. Lee Crosno, Owner-Managers Phone 677</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

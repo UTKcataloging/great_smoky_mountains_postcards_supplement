@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Handwritten note sent to Mrs. George Fishburn in Mishawaka, Indiana on July 2, 1947 for a postage of 1 cent.</abstract>
    <abstract>The Loop-Over, seen here from the CHimney Tops, is one of the most unique features on the thrilling Tennessee side of the Newfound Gap Highway. Here the road makes one complete circle instead of four sharp extremely dangerous curves that were on the old road at this point. Mt. LeConte is seen in the background of this picture. The small peak with the wisp of cloud is sometimes called "West Point" and the next broader peak is "Cliff-Top." The next ones in order are "Hight-Top", the highest point and "Myrtle-Point", the grandstand of the Smokies.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Handwritten note sent to Mrs. George Fishburn in Mishawaka, Indiana on July 2, 1947 for a postage of 1 cent.</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

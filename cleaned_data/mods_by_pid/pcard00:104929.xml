@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>Von Reagan's Cottages and Tourist Home Recommended by Blue List Travel Service. Tub and Shower Baths - Innerspring Mattresses - Free Garage - Saddle Horses - View of Mt. Le Conte. Located South West End of Town on Highway 71. Gatlinburg, Tennessee - Phone 175-J. Mrs G. P. Reagan, Manager, During Absence of Von Reagan, Proprietor, While Serving in the United States Army.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

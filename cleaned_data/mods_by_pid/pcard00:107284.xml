@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Handwritten note sent to Claudia Coates in Duboise, Pennsylvania on June 19, 1964 for a postage of 4 cents.</abstract>
    <abstract>Shafts of light from setting sun highlight vivid fall colors of trees and turbulent water of West Prong of Little Pigeon River at Chimneys Campground in Great Smoky Mountains National Park. Wild or passenger pigeons moved in such incredible numbers as to darken the sky in early 19th century, their weight breaking limbs off trees along this stream when they settled to roost, thus giving the river its name. U. S. Highway 441 crosses bridge in background.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Handwritten note sent to Claudia Coates in Duboise, Pennsylvania on June 19, 1964 for a postage of 4 cents.</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

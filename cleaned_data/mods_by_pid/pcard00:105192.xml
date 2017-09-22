@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unsent postcard with handwritten note dated November 3, 1963.</abstract>
    <abstract>Airport Road, just off U. S. 441, across from Civic Auditorium. 20 units, new in '61. 100% Air-Conditioned. Free T.V. Fully carpeted. Private heated pool with adjoining patio. Ceramic tile baths. Combination tub and shower. Open year 'round. Phone 436-4129. Robbie &amp; Milton Moore, Managers.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unsent postcard with handwritten note dated November 3, 1963</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

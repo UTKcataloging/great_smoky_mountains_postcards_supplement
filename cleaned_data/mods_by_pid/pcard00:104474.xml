@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Handwitten note sent to Portsmouth Virginia on October 31, 1961 for a postage of 4 cents.</abstract>
    <abstract>A Major Visitor Attraction of the Smokies: This majestic building of native unpolished marble houses the world's foremost depiction of the life of Christ in which many human-appearing life size characters seemingly have stepped right out of the Bible to be seen dramatically in large realistic scenes of the Holy Land. Open all year on the river road.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Handwitten note sent to Portsmouth Virginia on October 31, 1961 for a postage of 4 cents.</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

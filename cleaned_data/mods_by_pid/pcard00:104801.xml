@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Handwritten note sent to Mrs. Richard Simmons in St. Petersburg, Florida on July 15, 1963 for a postage of 4 cents.</abstract>
    <abstract>41 units with spacious shaded Lawns. With or without kitchens. Electric Heat. 100% Air Conditioned. Fireplaces for those who enjoy an open fire. Wall to wall carpet or hardwood floors. Tiled baths. Walnut or cherry furniture by local craftsmen. T. V. - Private Swimming Pool. Mr. and Mrs. W. G. Cox, Owners-Managers Phone Gatlinburg 436-4978.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Handwritten note sent to Mrs. Richard Simmons in St. Petersburg, Florida on July 15, 1963 for a postage of 4 cents.</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

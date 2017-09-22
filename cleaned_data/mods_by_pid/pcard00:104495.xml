@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Handwritten note to Mrs. Sadie Kennedy in S Easton, Massachusetts sent October 9, 1956 for a postage of 2 cents.</abstract>
    <abstract>Looking down on Gatlinburg, Tennessee from the upper terminal of the Sky Lift at the upper right may be seen part of Mt. LeConte one of the best known peaks of the Great Smoky Mountains National Park.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Handwritten note to Mrs. Sadie Kennedy in S Easton, Massachusetts sent October 9, 1956 for a postage of 2 cents.</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

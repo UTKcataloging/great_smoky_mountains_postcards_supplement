@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Handwritten note sent to Mr. and Mrs. John Rider in McComb, Ohio on September 7, 1954 for a postage of 3 cents.</abstract>
    <abstract>"Entrance to the Great Smoky Mountains. Nat'l Park." The Hagewood Motel Located on the west prong of the Little Pigeon River. One block from the entrance to the Great Smoky Mountains National Park. Private porches with each unit over-looking the river. Connecting rooms available. Completely air conditioned. Television on the front lawn. Terrazzo and wall to wall carpeting. Ample parking space and recommended restuarants nearby. Mr. and Mrs. Lorris Hagewood, Owners and Mgrs. Phone 116.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Handwritten note sent to Mr. and Mrs. John Rider in McComb, Ohio on September 7, 1954 for a postage of 3 cents.</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

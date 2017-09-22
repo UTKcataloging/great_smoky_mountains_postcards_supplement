@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>The Mountainside Theatre has been created from a natural amphitheatre in the hills above the Indian village of Cherokee. In this sylvan setting, in the shadow of the verlasting peaks of the Great Smoky Mountains, will be presented a moving and authentic saga of Cherokee Indians and their mountaineer neighbors. It is the story of the handful of Cherokees who hid in the Great Smokies rather than move west on The Trail of Tears. Through their descendents, Indian customs and mountain traditions, fast becoming extinct, are being revived and preserved</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

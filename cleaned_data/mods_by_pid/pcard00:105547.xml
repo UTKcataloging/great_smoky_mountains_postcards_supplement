@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Unused postcard.</abstract>
    <abstract>This modern air conditioned motor court with TV in rooms, is 400 feet off highway with private swimming pool in a peaceful riverside setting. A place to relax and enjoy the scenic beauty of the mountains. Ample parking space, drive-in theater and recommended restaurants nearby. On U.S. 441. Phone 453-3557, Sevierville, Tenn. Mr. &amp; Mrs. James Maples Owners and Operators</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Unused postcard</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>

@@ -11,6 +11,7 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
+   <abstract>Handwritten note sent to Miss Ruth Pagels in Elmwood Park, Illinois on July 18, 1953 for a postage of 2 cents.</abstract>
    <abstract>Here the highway makes one complete circle instead of four sharp curves that were on the old road at this point. From the Loop can be seen the famous Chimney Tops, rugged and picturesque peaks of the Smokies.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
@@ -21,9 +22,9 @@
       <titleInfo>
          <title>Ridley Wills Postcard Collection</title>
       </titleInfo>
-      <identifier>MPA.3781</identifier>
+      <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   <note>Handwritten note sent to Miss Ruth Pagels in Elmwood Park, Illinois on July 18, 1953 for a postage of 2 cents.</note>
+   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>
