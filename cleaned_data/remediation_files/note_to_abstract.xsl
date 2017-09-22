@@ -22,7 +22,7 @@
         <identifier type="local">MS.3781</identifier>
     </xsl:template>
     
-    <xsl:template match='note'>
+<!--    <xsl:template match='note'>
         <xsl:variable name="pertest" select="if (matches(.,'\.$')) 
             then (.) 
             else (concat(., '.'))"/>
@@ -30,5 +30,15 @@
     </xsl:template>
     <xsl:template match='abstract'>
         <xsl:copy><xsl:apply-templates/></xsl:copy>
+    </xsl:template>-->
+    
+    <xsl:template match="abstract">
+        <xsl:variable name="pertest" select="if (matches(../note, '\.$'))
+            then (../note)
+            else (concat(../note, '.'))"/>
+        <abstract><xsl:value-of select="$pertest"/></abstract>
+        <xsl:copy><xsl:apply-templates/></xsl:copy>
     </xsl:template>
+    
+    <xsl:template match="note"/>
 </xsl:stylesheet>
