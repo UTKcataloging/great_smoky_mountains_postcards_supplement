@@ -12,7 +12,7 @@
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
    <abstract>Unused postcard.</abstract>
-   <abstract>Located on the extreme western boundary of North Carolina and adjoining the Great Smoky Mountains National Park, the Qualla Reservation, consisting of 63,000 acres, represents a typical part of the vast mountain domain that once was owned and occupied by the Cherokee Indians.  In the Cherokee Hall of Fame, three names are written above all others -- Chief Junaluska, a warrior statesman; Sequoyah, who devised a language for the Cherokees and a printing press for its use and Tsali, the greatest hero of all who gave his life so that the remainder of the Cherokees could live on their original land.</abstract>
+   <abstract>Located on the extreme western boundary of North Carolina and adjoining the Great Smoky Mountains National Park, the Qualla Reservation, consisting of 63,000 acres, represents a typical part of the vast mountain domain that once was owned and occupied by the Cherokee Indians. In the Cherokee Hall of Fame, three names are written above all others -- Chief Junaluska, a warrior statesman; Sequoyah, who devised a language for the Cherokees and a printing press for its use and Tsali, the greatest hero of all who gave his life so that the remainder of the Cherokees could live on their original land.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
          <title>Postcards from the Great Smoky Mountains</title>
@@ -24,7 +24,6 @@
       </titleInfo>
       <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>
@@ -61,8 +60,6 @@
          <placeTerm valueURI="http://id.loc.gov/authorities/names/n79063971">Asheville (N.C.)</placeTerm>
       </place>
    </originInfo>
-   <accessCondition type="use and reproduction"
-                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
    <recordInfo>
       <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
       <languageOfCataloging>
@@ -70,4 +67,6 @@
       </languageOfCataloging>
       <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
    </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
 </mods>

@@ -26,7 +26,7 @@
       </role>
    </name>
    <titleInfo>
-      <title>Duck Hawk on the Side of Mount LeConte.  Great Smoky Mountains National Park</title>
+      <title>Duck Hawk on the Side of Mount LeConte. Great Smoky Mountains National Park</title>
    </titleInfo>
    <typeOfResource>still image</typeOfResource>
    <originInfo>
@@ -43,7 +43,7 @@
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>.</abstract>
-   <abstract>Near the Alum Cave Bluff, on the south side of majestic Mt. LeConte, is the thin, leaning ridge with jagged points known as Duck Hawk Peaks.  Under the over-hanging left side of the spectacular point a pair of duck hawks - a favorite falcon - has nested for many years.  It takes a venturesome hiker or bird lover to scale the steep face of these peaks.  Through these narrow ridges are holes or "windows."</abstract>
+   <abstract>Near the Alum Cave Bluff, on the south side of majestic Mt. LeConte, is the thin, leaning ridge with jagged points known as Duck Hawk Peaks. Under the over-hanging left side of the spectacular point a pair of duck hawks - a favorite falcon - has nested for many years. It takes a venturesome hiker or bird lover to scale the steep face of these peaks. Through these narrow ridges are holes or "windows."</abstract>
    <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
    </language>
@@ -83,9 +83,6 @@
       <titleInfo>
          <title>Great Smoky Mountains Postcards</title>
       </titleInfo>
-      <location>
-         <url>http://digital.lib.utk.edu/smokiespostcards</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>
@@ -93,9 +90,6 @@
       </titleInfo>
       <identifier type="local">MS.3745</identifier>
    </relatedItem>
-   <accessCondition type="use and reproduction"
-                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evalutated</accessCondition>
-   
    <recordInfo>
       <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
       <languageOfCataloging>
@@ -103,4 +97,6 @@
       </languageOfCataloging>
       <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
    </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
 </mods>

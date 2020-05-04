@@ -39,7 +39,7 @@
       <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
-   <abstract>Cover of a souvenir folder of postcard-sized images that fold out in accordion style.  Front image shows Cherokee women with children.</abstract>
+   <abstract>Cover of a souvenir folder of postcard-sized images that fold out in accordion style. Front image shows Cherokee women with children.</abstract>
    <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
    </language>
@@ -68,9 +68,6 @@
       <titleInfo>
          <title>Great Smoky Mountains Postcards</title>
       </titleInfo>
-      <location>
-         <url>http://digital.lib.utk.edu/smokiespostcards</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>
@@ -83,9 +80,6 @@
          <title>Souvenir of Great Smoky Mountains National Park</title>
       </titleInfo>
    </relatedItem>
-   <accessCondition type="use and reproduction"
-                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evalutated</accessCondition>
-   
    <recordInfo>
       <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
       <languageOfCataloging>
@@ -93,4 +87,6 @@
       </languageOfCataloging>
       <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
    </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
 </mods>

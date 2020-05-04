@@ -54,7 +54,7 @@
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>.</abstract>
-   <abstract>Clingmans Dome Parking Area, end of the Skyway, is the highest point on the highest highway in the East.  Trails lead from here to Clingmans Dome Observation Tower, altitude 6643 ft., highest point in the park; Andrews Bald, and points west along Appalachian Trail.</abstract>
+   <abstract>Clingmans Dome Parking Area, end of the Skyway, is the highest point on the highest highway in the East. Trails lead from here to Clingmans Dome Observation Tower, altitude 6643 ft., highest point in the park; Andrews Bald, and points west along Appalachian Trail.</abstract>
    <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
    </language>
@@ -88,9 +88,6 @@
       <titleInfo>
          <title>Great Smoky Mountains Postcards</title>
       </titleInfo>
-      <location>
-         <url>http://digital.lib.utk.edu/smokiespostcards</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>
@@ -98,9 +95,6 @@
       </titleInfo>
       <identifier type="local">MS.3745</identifier>
    </relatedItem>
-   <accessCondition type="use and reproduction"
-                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evalutated</accessCondition>
-   
    <recordInfo>
       <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
       <languageOfCataloging>
@@ -108,4 +102,6 @@
       </languageOfCataloging>
       <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
    </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
 </mods>

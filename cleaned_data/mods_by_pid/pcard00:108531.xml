@@ -12,7 +12,7 @@
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
    <abstract>Handwritten note sent to Miss Margerite Miller on September 13, 1940 for a postage of 1 cent.</abstract>
-   <abstract>The natives of the Southern Appalachian Mountains are noted for their many handicrafts which have been handed down from generation to generation.  Almost every community has some individual or family who devote all or part of their time to the making of hooked rugs and using the old fashioned tools usually employed by The Mountain Rug Makers.</abstract>
+   <abstract>The natives of the Southern Appalachian Mountains are noted for their many handicrafts which have been handed down from generation to generation. Almost every community has some individual or family who devote all or part of their time to the making of hooked rugs and using the old fashioned tools usually employed by The Mountain Rug Makers.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
          <title>Postcards from the Great Smoky Mountains</title>
@@ -24,7 +24,6 @@
       </titleInfo>
       <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>
@@ -56,8 +55,6 @@
          <placeTerm valueURI="http://id.loc.gov/authorities/names/n79063971">Asheville (N.C.)</placeTerm>
       </place>
    </originInfo>
-   <accessCondition type="use and reproduction"
-                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
    <recordInfo>
       <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
       <languageOfCataloging>
@@ -65,4 +62,6 @@
       </languageOfCataloging>
       <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
    </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
 </mods>

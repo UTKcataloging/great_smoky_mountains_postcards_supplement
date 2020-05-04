@@ -34,7 +34,7 @@
       </role>
    </name>
    <titleInfo>
-      <title> Lower Tunnel with the Chimney Tops, Great Smoky Mountains National Park</title>
+      <title>Lower Tunnel with the Chimney Tops, Great Smoky Mountains National Park</title>
    </titleInfo>
    <typeOfResource>still image</typeOfResource>
    <originInfo>
@@ -50,7 +50,7 @@
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>.</abstract>
-   <abstract>Postcard with handwritten note sent from Knoxville to Miss Norene Bogart,  Loudon, Tenn. on January 29, 1945 for a postage of 1 cent.</abstract>
+   <abstract>Postcard with handwritten note sent from Knoxville to Miss Norene Bogart, Loudon, Tenn. on January 29, 1945 for a postage of 1 cent.</abstract>
    <abstract>.</abstract>
    <abstract>There are many spectacular views and engineering features along the Tennessee side of the Newfound Gap Highway. Here we see the upper end of the lower tunnel, with the Chimney Tops rising majestically in the left background.</abstract>
    <language>
@@ -86,9 +86,6 @@
       <titleInfo>
          <title>Great Smoky Mountains Postcards</title>
       </titleInfo>
-      <location>
-         <url>http://digital.lib.utk.edu/smokiespostcards</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>
@@ -96,9 +93,6 @@
       </titleInfo>
       <identifier type="local">MS.3709</identifier>
    </relatedItem>
-   <accessCondition type="use and reproduction"
-                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evalutated</accessCondition>
-   
    <recordInfo>
       <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
       <languageOfCataloging>
@@ -106,4 +100,6 @@
       </languageOfCataloging>
       <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
    </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
 </mods>

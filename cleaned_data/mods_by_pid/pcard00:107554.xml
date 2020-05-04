@@ -24,7 +24,6 @@
       </titleInfo>
       <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>
@@ -42,7 +41,7 @@
    </name>
    <name valueURI="http://id.loc.gov/authorities/names/n95004583"
          authority="naf">
-      <namePart>Cline, Walter M., 1873-1941 </namePart>
+      <namePart>Cline, Walter M., 1873-1941</namePart>
       <role>
          <roleTerm authority="marcrelators">Photographer</roleTerm>
       </role>
@@ -84,8 +83,6 @@
          <placeTerm valueURI="http://id.loc.gov/authorities/names/n80040520">Gatlinburg (Tenn.)</placeTerm>
       </place>
    </originInfo>
-   <accessCondition type="use and reproduction"
-                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
    <recordInfo>
       <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
       <languageOfCataloging>
@@ -93,4 +90,6 @@
       </languageOfCataloging>
       <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
    </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
 </mods>

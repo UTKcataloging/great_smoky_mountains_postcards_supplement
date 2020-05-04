@@ -11,8 +11,8 @@
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
    </location>
-   <abstract>Handwritten note sent to Rita Mangrum  in Nashville, Tennessee on July 7, 1953 for a postage of 2 cents.</abstract>
-   <abstract>This 23 unit motor court has porches over the Little Pigeon River and is one mile from the entrances to The Great Smoky Mountain National Park. All the modern conveniences are available such as electric heat, tub, and shower baths.  Kitchens available.  Mr. and Mrs. Ray Bohanan, Owners and Mgrs. Phone 87 Res.</abstract>
+   <abstract>Handwritten note sent to Rita Mangrum in Nashville, Tennessee on July 7, 1953 for a postage of 2 cents.</abstract>
+   <abstract>This 23 unit motor court has porches over the Little Pigeon River and is one mile from the entrances to The Great Smoky Mountain National Park. All the modern conveniences are available such as electric heat, tub, and shower baths. Kitchens available. Mr. and Mrs. Ray Bohanan, Owners and Mgrs. Phone 87 Res.</abstract>
    <relatedItem type="host" displayLabel="Project">
       <titleInfo>
          <title>Postcards from the Great Smoky Mountains</title>
@@ -24,7 +24,6 @@
       </titleInfo>
       <identifier type="local">MS.3781</identifier>
    </relatedItem>
-   
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
       <internetMediaType>image/jp2</internetMediaType>
@@ -68,8 +67,6 @@
          <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
       </place>
    </originInfo>
-   <accessCondition type="use and reproduction"
-                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
    <recordInfo>
       <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
       <languageOfCataloging>
@@ -77,4 +74,6 @@
       </languageOfCataloging>
       <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
    </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
 </mods>

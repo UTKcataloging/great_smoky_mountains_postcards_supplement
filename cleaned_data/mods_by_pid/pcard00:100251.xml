@@ -51,7 +51,7 @@
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>.</abstract>
-   <abstract>One of the greatest of Nature's displays is the Great Smoky Mountains National Park, the largest national park in Eastern America.  This park straddles the high ridge of the Great Smoky Mountains range which forms the boundary between North Carolina and Tennessee.  Within its borders there are many  mountain peaks over a mile high, deep ravines, precipitous cliffs, waterfalls and numerous mountain streams.</abstract>
+   <abstract>One of the greatest of Nature's displays is the Great Smoky Mountains National Park, the largest national park in Eastern America. This park straddles the high ridge of the Great Smoky Mountains range which forms the boundary between North Carolina and Tennessee. Within its borders there are many mountain peaks over a mile high, deep ravines, precipitous cliffs, waterfalls and numerous mountain streams.</abstract>
    <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
    </language>
@@ -82,9 +82,6 @@
       <titleInfo>
          <title>Great Smoky Mountains Postcards</title>
       </titleInfo>
-      <location>
-         <url>http://digital.lib.utk.edu/smokiespostcards</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>
@@ -92,9 +89,6 @@
       </titleInfo>
       <identifier type="local">MS.3745</identifier>
    </relatedItem>
-   <accessCondition type="use and reproduction"
-                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evalutated</accessCondition>
-   
    <recordInfo>
       <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
       <languageOfCataloging>
@@ -102,4 +96,6 @@
       </languageOfCataloging>
       <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
    </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
 </mods>

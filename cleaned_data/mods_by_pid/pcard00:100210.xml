@@ -48,7 +48,7 @@
    <abstract>.</abstract>
    <abstract>Unused postcard. Newfound Gap is erroneously identified as Cumberland Gap.</abstract>
    <abstract>.</abstract>
-   <abstract>Rockefeller Memorial at Cumberland Gap, Great Smoky Mountains National Park, Tenn.  The reading on the plaque is as follows: -For-The-Permanent-Enjoyment-Of-The-People-  This park was given one-half by the peoples and states of North Carolina and Tennessee and by the United States of America; and one-half in memory of Laura Spelman Rockefeller by the Laura Spelman Rockefeller Memorial Founded by her husband John D. Rockefeller.</abstract>
+   <abstract>Rockefeller Memorial at Cumberland Gap, Great Smoky Mountains National Park, Tenn. The reading on the plaque is as follows: -For-The-Permanent-Enjoyment-Of-The-People- This park was given one-half by the peoples and states of North Carolina and Tennessee and by the United States of America; and one-half in memory of Laura Spelman Rockefeller by the Laura Spelman Rockefeller Memorial Founded by her husband John D. Rockefeller.</abstract>
    <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
    </language>
@@ -86,9 +86,6 @@
       <titleInfo>
          <title>Great Smoky Mountains Postcards</title>
       </titleInfo>
-      <location>
-         <url>http://digital.lib.utk.edu/smokiespostcards</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>
@@ -96,9 +93,6 @@
       </titleInfo>
       <identifier type="local">MS.3745</identifier>
    </relatedItem>
-   <accessCondition type="use and reproduction"
-                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evalutated</accessCondition>
-   
    <recordInfo>
       <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
       <languageOfCataloging>
@@ -106,4 +100,6 @@
       </languageOfCataloging>
       <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
    </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
 </mods>

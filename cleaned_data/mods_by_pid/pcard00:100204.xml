@@ -46,7 +46,7 @@
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>.</abstract>
-   <abstract>Chimney Tops, Alt. 4,755 ft.  The "Chimneys" in the Tennessee section of the Great Smoky Mountains National Park test the endurance of hardened mountain climbers.  The ruggedness cannot be appreciated until one climbs to the top.  Excellent views of Little Pigeon Gorge, the Loop-Over and many other awe-inspiring scenes may be seen from the tops.</abstract>
+   <abstract>Chimney Tops, Alt. 4,755 ft. The "Chimneys" in the Tennessee section of the Great Smoky Mountains National Park test the endurance of hardened mountain climbers. The ruggedness cannot be appreciated until one climbs to the top. Excellent views of Little Pigeon Gorge, the Loop-Over and many other awe-inspiring scenes may be seen from the tops.</abstract>
    <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
    </language>
@@ -73,9 +73,6 @@
       <titleInfo>
          <title>Great Smoky Mountains Postcards</title>
       </titleInfo>
-      <location>
-         <url>http://digital.lib.utk.edu/smokiespostcards</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>
@@ -83,9 +80,6 @@
       </titleInfo>
       <identifier type="local">MS.3745</identifier>
    </relatedItem>
-   <accessCondition type="use and reproduction"
-                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evalutated</accessCondition>
-   
    <recordInfo>
       <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
       <languageOfCataloging>
@@ -93,4 +87,6 @@
       </languageOfCataloging>
       <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
    </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
 </mods>

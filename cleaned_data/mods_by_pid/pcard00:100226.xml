@@ -42,9 +42,9 @@
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>.</abstract>
-   <abstract>Postcard with handwritten note sent from Knoxville, Tenn. to Mrs. C.J. Bogart, Loudon, Tenn. on March 9, 1944 for a postage of 1 cent.  The front image also includes a "time savers easy correspondence card" where the sender is meant to "check items expressing your sentiments."</abstract>
+   <abstract>Postcard with handwritten note sent from Knoxville, Tenn. to Mrs. C.J. Bogart, Loudon, Tenn. on March 9, 1944 for a postage of 1 cent. The front image also includes a "time savers easy correspondence card" where the sender is meant to "check items expressing your sentiments."</abstract>
    <abstract>.</abstract>
-   <abstract>The glimpse of the head water of Little Pigeon River is typical of the park streams.  Rainbow trout and black bass abound in such streams, as seen here.</abstract>
+   <abstract>The glimpse of the head water of Little Pigeon River is typical of the park streams. Rainbow trout and black bass abound in such streams, as seen here.</abstract>
    <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
    </language>
@@ -71,9 +71,6 @@
       <titleInfo>
          <title>Great Smoky Mountains Postcards</title>
       </titleInfo>
-      <location>
-         <url>http://digital.lib.utk.edu/smokiespostcards</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>
@@ -81,9 +78,6 @@
       </titleInfo>
       <identifier type="local">MS.3709</identifier>
    </relatedItem>
-   <accessCondition type="use and reproduction"
-                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evalutated</accessCondition>
-   
    <recordInfo>
       <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
       <languageOfCataloging>
@@ -91,4 +85,6 @@
       </languageOfCataloging>
       <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
    </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
 </mods>

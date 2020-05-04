@@ -46,7 +46,7 @@
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>.</abstract>
-   <abstract>Chalet Motel, Gatlinburg, Tennessee 37738;  Sunset Drive: Turn at Traffic Light #9 on Parkway.  A mountain vacation home with a view of the "Smokies."  Air conditioned, room phones, Color T.V., thermostatically controlled private pool, complimentary pool-side breakfast.  Open year 'round.</abstract>
+   <abstract>Chalet Motel, Gatlinburg, Tennessee 37738; Sunset Drive: Turn at Traffic Light #9 on Parkway. A mountain vacation home with a view of the "Smokies." Air conditioned, room phones, Color T.V., thermostatically controlled private pool, complimentary pool-side breakfast. Open year 'round.</abstract>
    <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
    </language>
@@ -78,9 +78,6 @@
       <titleInfo>
          <title>Great Smoky Mountains Postcards</title>
       </titleInfo>
-      <location>
-         <url>http://digital.lib.utk.edu/smokiespostcards</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>
@@ -88,9 +85,6 @@
       </titleInfo>
       <identifier type="local">MS.3709</identifier>
    </relatedItem>
-   <accessCondition type="use and reproduction"
-                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evalutated</accessCondition>
-   
    <recordInfo>
       <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
       <languageOfCataloging>
@@ -98,4 +92,6 @@
       </languageOfCataloging>
       <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
    </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
 </mods>

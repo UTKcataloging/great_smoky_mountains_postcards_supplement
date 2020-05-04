@@ -56,7 +56,7 @@
    <abstract>.</abstract>
    <abstract>Unused postcard with two panoramic images on the front.</abstract>
    <abstract>.</abstract>
-   <abstract>The Great Smoky Mountains are located 35 miles from Knoxville.  They are pictures of unbelievable beauty.  Streams dashing against rocks, and over cascades, waterfalls in various heights, precipitous cliffs, peaks and bluffs and an ever-changing variety of color meet the eye at every turn.  Seven peaks rise to an altitude of more than 6000 feet.  Seven states can be seen from Mt. Leconte which is the highest peak in the range.  It rises 6680 feet above sea level.  The Great Smokies cover 704,000 acres. "Knoxville – Gateway to the Great Smokies."</abstract>
+   <abstract>The Great Smoky Mountains are located 35 miles from Knoxville. They are pictures of unbelievable beauty. Streams dashing against rocks, and over cascades, waterfalls in various heights, precipitous cliffs, peaks and bluffs and an ever-changing variety of color meet the eye at every turn. Seven peaks rise to an altitude of more than 6000 feet. Seven states can be seen from Mt. Leconte which is the highest peak in the range. It rises 6680 feet above sea level. The Great Smokies cover 704,000 acres. "Knoxville – Gateway to the Great Smokies."</abstract>
    <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
    </language>
@@ -100,9 +100,6 @@
       <titleInfo>
          <title>Great Smoky Mountains Postcards</title>
       </titleInfo>
-      <location>
-         <url>http://digital.lib.utk.edu/smokiespostcards</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>
@@ -110,9 +107,6 @@
       </titleInfo>
       <identifier type="local">MS.3745</identifier>
    </relatedItem>
-   <accessCondition type="use and reproduction"
-                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evalutated</accessCondition>
-   
    <recordInfo>
       <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
       <languageOfCataloging>
@@ -120,4 +114,6 @@
       </languageOfCataloging>
       <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
    </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
 </mods>
